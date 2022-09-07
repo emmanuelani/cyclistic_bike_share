@@ -8,3 +8,9 @@
 * The business task here is to understand how casual riders and annual members use Cyclistic bikes differently which will be used to design a new marketing strategy to convert casual riders into annual members.
 
 * As a Junior Data Analyst, I have been assigned the task of understanding how annual members and casual riders differ which would guide the marketing strategy team in converting casual riders to annual members.
+
+## **Dataset**
+[Link](https://www.kaggle.com/datasets/emmanuelani/bike-share-datasets) to dataset on kaggle.
+
+
+
