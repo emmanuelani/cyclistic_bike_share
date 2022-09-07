@@ -1,4 +1,8 @@
 # **Cyclistic Bike Share - Case Study**
+
+![image](cyclistic_bike.jpg)
+
+
 ## **Introduction**
 
 * In this project. I'll be working with a fictional company called Cyclistic as a Junior Data Analyst. Cyclistic is a bike sharing company in Chicago. They offer a bike share program that features more than 5800 bikes and 600 docking stations.
@@ -11,6 +15,9 @@
 
 ## **Dataset**
 [Link](https://www.kaggle.com/datasets/emmanuelani/bike-share-datasets) to dataset on kaggle.
+
+
+
 
 
 
