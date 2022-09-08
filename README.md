@@ -1,6 +1,8 @@
 # **Cyclistic Bike Share - Case Study**
 
-![image](cyclistic_bike.jpg)
+<div align="center">
+  <img src="cyclistic_bike.jpg" width="400" height="250"/>
+</div>
 
 
 ## **Introduction**
@@ -17,9 +19,3 @@
 
 ## **Dataset**
 [Link](https://www.kaggle.com/datasets/emmanuelani/bike-share-datasets) to dataset on kaggle.
-
-
-
-
-
-
